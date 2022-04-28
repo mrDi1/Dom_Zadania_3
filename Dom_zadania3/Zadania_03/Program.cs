@@ -6,27 +6,13 @@
 // 5 -> 1, 8, 27, 64, 125 
 
 
-// int n = 5;                               
+// int n = 5;                               // работает
 // Console.Write(n + " -> ");
 // for (int i = 1; i <= n; i++)
 // {
 //     Console.Write($"{i * i * i}, ");
 // }
 
-
-// string met1(int count, string c)
-// {
-//     int i = 0;
-//     string result = string.Emptx;
-//     while (i < count)
-//     {
-//         result = result + c;
-//         i++;
-//     }
-//     return result;
-// }
-// string res = met1(5,", durak ");
-// Console.Write(res);
 
 int x = 5;
 Console.Write(x + " -> ");
@@ -44,5 +30,5 @@ Console.Write(res);
 
 
 
-// сделал как смог((
+// не могу найти из за чего в конце ответа дописавет число x ((
 // не могу нормально сделать методы, а если сделал не могу использовать его нормально(( 
